@@ -1,7 +1,5 @@
 ## Setup
 
-[Read the complete tutorial here](https://www.curiousily.com/posts/reproducible-machine-learning-and-experiment-tracking-pipiline-with-python-and-dvc/)
-
 ```
 git clone git@github.com:curiousily/Reproducible-ML-with-DVC.git
 ```
