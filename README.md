@@ -100,8 +100,6 @@ Check the metrics for the Random Forest model compared to the Linear Regression:
 dvc metrics show -T
 ```
 
-[Read the complete tutorial here](https://www.curiousily.com/posts/reproducible-machine-learning-and-experiment-tracking-pipiline-with-python-and-dvc/)
-
 ## License
 
 MIT
